@@ -107,3 +107,6 @@ venv.bak/
 data/
 test/
 flickr_logos_27_dataset/
+
+.idea/
+.idea
